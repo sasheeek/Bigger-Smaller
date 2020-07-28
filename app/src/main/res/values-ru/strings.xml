@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Больше-Меньше</string>
+    <string name="start">Начать</string>
+    <string name="back">Назад</string>
+    <string name="textcontinue">Продолжить</string>
+
+    <string name="level">Уровень:</string>
+    <string name="level1">Уровень 1</string>
+    <string name="level2">Уровень 2</string>
+    <string name="level3">Уровень 3</string>
+    <string name="level4">Уровень 4</string>
+    <string name="level5">Уровень 5</string>
+    <string name="level6">Уровень 6</string>
+    <string name="level7">Уровень 7</string>
+    <string name="level8">Уровень 8</string>
+    <string name="level9">Уровень 9</string>
+    <string name="level10">Уровень 10</string>
+    <string name="level11">Уровень 11</string>
+    <string name="level12">Уровень 12</string>
+    <string name="level13">Уровень 13</string>
+    <string name="level14">Уровень 14</string>
+    <string name="level15">Уровень 15</string>
+    <string name="level16">Уровень 16</string>
+    <string name="level17">Уровень 17</string>
+    <string name="level18">Уровень 18</string>
+    <string name="level19">Уровень 19</string>
+    <string name="level20">Уровень 20</string>
+    <string name="level21">Уровень 21</string>
+    <string name="level22">Уровень 22</string>
+    <string name="level23">Уровень 23</string>
+    <string name="level24">Уровень 24</string>
+    <string name="level25">Уровень 25</string>
+    <string name="level26">Уровень 26</string>
+    <string name="level27">Уровень 27</string>
+    <string name="level28">Уровень 28</string>
+    <string name="level29">Уровень 29</string>
+    <string name="level30">Уровень 30</string>
+</resources>

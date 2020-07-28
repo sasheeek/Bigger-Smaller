@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="levelone">Level 1\nChoose large number.\n- Questions can be repeated until you reach 20 points.</string>
+    <string name="leveloneend">Congratulations, level 1 Pass!\n\n
+        Interesting fact:\n
+        "- 2 and 5 are the only prime numbers in mathematics that end with 2 and 5, respectively.</string>
+
+    <string name="leveltwo">Level 2\nChoose large number.\n- Questions can be repeated until you reach 20 points.</string>
+    <string name="leveltwoend">Congratulations, level 2 Pass!\n\n
+        Interesting fact:\n
+        "- Among all shapes with the same perimeter, the circle will have the largest area. Conversely, among all shapes with the same area, the circle will have the smallest perimeter.</string>
+
+    <string name="levelthree">Level 3\nChoose large number.\n- Questions can be repeated until you reach 20 points.</string>
+    <string name="levelthreeend">Congratulations, level 3 Pass!\n\n
+        Interesting fact:\n
+        "- Mathematicians have calculated that there are as many as 177,147 ways to tie a tie. We can only guess whether they checked it empirically or by calculation.</string>
+
+    <string name="levelfour">Level 4\nChoose large number.\n- Questions can be repeated until you reach 20 points.</string>
+    <string name="levelfourend">Congratulations, level 4 Pass!\n\n
+        Interesting fact:\n
+        "- In a group of 23 or more people, the probability that two of them will have a birthday is more than 50%, and in a group of 60 people this probability is about 99%.</string>
+
+    <string name="levelfive">Level 5\nChoose large number.\n- Questions can be repeated until you reach 20 points.</string>
+    <string name="levelfiveend">Congratulations, level 5 Pass!\n\n
+        Interesting fact:\n
+        "- Zero is the only number in mathematics that cannot be written in Roman numerals.</string>
+
+    <string name="levelsix">Level 6\nChoose large number.</string>
+    <string name="levelsixend">Congratulations, level 6 Pass!\n\n
+        Interesting fact:\n
+        "- The equal sign (=) was first used by the British mathematician Robert Record in 1557.</string>
+
+    <string name="levelseven">Level 7\nChoose large number.</string>
+    <string name="levelsevenend">Congratulations, level 7 Pass!\n\n
+        Interesting fact:\n
+        "- The number 18 is the only number other than zero whose sum of digits is two times less than itself.</string>
+
+    <string name="leveleight">Level 8 - Bonus\nChoose an emoticon that smiles.\n- Emoticons can be repeated.</string>
+    <string name="leveleightend">Congratulations, bonus level 8, Passed!\n\n
+        Interesting fact:\n
+        "- Since 2014, on this day, July 17, Emoji Day is celebrated all over the world.</string>
+
+    <string name="levelnine">Level 9\nChoose large number.</string>
+    <string name="levelnineend">Congratulations, level 9 Pass!\n\n
+        Interesting fact:\n
+        "- The sum of numbers from 1 to 100 is 5050.</string>
+
+    <string name="levelten">Level 10\nChoose large number.</string>
+    <string name="leveltenend">Congratulations, level 10 Pass!\n\n
+        Interesting fact:\n
+        "- Charles Lutwidge Dodgson is a little-known British mathematician who has devoted a large part of his life to the study of logic. Nevertheless, he became famous under a different name - Lewis Carroll, author of "Alice in Wonderland".</string>
+
+    <string name="leveleleven">Level 11\nChoose large number.</string>
+    <string name="levelelevenend">Congratulations, level 11 Pass!\n\n
+        Interesting fact:\n
+        "- American George Danzig, as a student, was late for class and mistakenly took the equations written on the board as homework. With difficulty, but the future scientist coped with them. As it turned out later, these were two "unsolvable" problems in statistics, over the solution of which scientists have been struggling for many years.</string>
+
+    <string name="leveltwelve">Level 12\nChoose large number.</string>
+    <string name="leveltwelveend">Congratulations, level 12 Pass!\n\n
+        Interesting fact:\n
+        "- Modern genius and mathematics professor Stephen Hawking claims that he studied mathematics only at school. While teaching mathematics at Oxford, Stephen simply read the textbook ahead of his own students by a couple of weeks.</string>
+
+    <string name="levelthirteen">Level 13\nChoose large number.</string>
+    <string name="levelthirteenend">Congratulations, level 13 Pass!\n\n
+        Interesting fact:\n
+        "- We think of negative numbers as something natural, but this was not always the case. For the first time, negative numbers were legalized in China in the 3rd century, but were used only for exceptional cases, since they were considered, in general, meaningless. A little later, negative numbers began to be used in India to denote debt.</string>
+
+    <string name="levelfourteen">Level 14\nChoose large number.</string>
+    <string name="levelfourteenend">Congratulations, level 14 Pass!\n\n
+        Interesting fact:\n
+        "- All mathematical information fits into a huge number of books: today there are more than 100,000 of them.</string>
+
+    <string name="levelfifteen">Level 15\nChoose large number.</string>
+    <string name="levelfifteenend">Congratulations, level 15 Pass!\n\n
+        Interesting fact:\n
+        "- The world's first female mathematician lived half a millennium BC in Ancient Byzantium and her name was Hypatia.</string>
+
+    <string name="levelsixteen">Level 16\nChoose large number.</string>
+    <string name="levelsixteenend">Congratulations, level 16 Pass!\n\n
+        Interesting fact:\n
+        "- Translated from Arabic, "digit" means "zero", but historically, we call this word, in principle, all numbers.</string>
+
+    <string name="levelseventeen">Level 17\nChoose large number.</string>
+    <string name="levelseventeenend">Congratulations, level 17 Pass!\n\n
+        Interesting fact:\n
+        "- Sofya Kovalevskaya was carried away by mathematics from early childhood, the reason for this was the walls in her room, which, in the absence of wallpaper, were pasted over by her parents with mathematical lectures.</string>
+
+    <string name="leveleighteen">Level 18 - Bonus\nChoose a herbivore.</string>
+    <string name="leveleighteenend">Congratulations, bonus level 18, Passed!\n\n
+        Interesting fact:\n
+        "- According to statistics, there are 50,000 spiders per acre of land.</string>
+
+    <string name="levelnineteen">Level 19\nChoose large number.</string>
+    <string name="levelnineteenend">Congratulations, level 19 Pass!\n\n
+        Interesting fact:\n
+        "- The oldest mathematical work was found not in the territory of Ancient Rome or Alexandria, but in Swaziland, and was a baboon bone with lines carved on it, which was almost 40,000 years old.</string>
+
+    <string name="leveltwenty">Level 20\nChoose large number.</string>
+    <string name="leveltwentyend">Congratulations, level 20 Pass!\n\n
+        Interesting fact:\n
+        "- Translated from Chinese, “four” means “death,” so the number “4” is absent from the numbering of houses in many Chinese cities, and there is no fourth floor in elevators.</string>
+
+    <string name="leveltwentyone">Level 21\nChoose large number.</string>
+    <string name="leveltwentyoneend">Congratulations, level 21 Pass!\n\n
+        Interesting fact:\n
+        "- Italians do not like the number 17. This goes back to the days of ancient Rome, when the inscription “I am no more” was written on all the gravestones, which visually looked like “VIXI”, that is, like the Roman numerals 6 and 11, which add up to 17.</string>
+
+    <string name="leveltwentytwo">Level 22\nChoose large number.</string>
+    <string name="leveltwentytwoend">Congratulations, level 22 Pass!\n\n
+        Interesting fact:\n
+        "- Opinion polls around the world have shown that the largest number of people consider the lucky number "7", the second most popular - "3". Such results are not surprising, because in almost all cultures and religions since ancient times, "7" is associated with positive energy.</string>
+
+    <string name="leveltwentythree">Level 23\nChoose large number.</string>
+    <string name="leveltwentythreeend">Congratulations, level 23 Pass!\n\n
+        Interesting fact:\n
+        "- Numbers that are the same in both directions (for example, 12321) are called palindromes.</string>
+
+    <string name="leveltwentyfour">Level 24\nChoose large number.</string>
+    <string name="leveltwentyfourend">Congratulations, level 24 Pass!\n\n
+        Interesting fact:\n
+        "- Some numbers of an infinite sequence of PI numbers have the names of scientists. For example, the segment "999999" is named after the American physicist Richard Feynman, who learned all the numbers after the decimal point up to nines so that he could say "9" six times at the end.</string>
+
+    <string name="leveltwentyfive">Level 25\nChoose large number.</string>
+    <string name="leveltwentyfiveend">Congratulations, level 25 Pass!\n\n
+        Interesting fact:\n
+        "- The centillion is considered the largest number in the world, it has 600 zeros at its end.</string>
+
+    <string name="leveltwentysix">Level 26\nChoose large number.</string>
+    <string name="leveltwentysixend">Congratulations, level 26 Pass!\n\n
+        Interesting fact:\n
+        "- The smallest number discovered today does not even have a name, but is a decimal fraction, with 100 million trillion trillion trillion zeros after the decimal point and before the one. It is not used in applied mathematics and is used by scientists to calculate the probability of a new universe emerging from an atom.</string>
+
+    <string name="leveltwentyseven">Level 27\nChoose large number.</string>
+    <string name="leveltwentysevenend">Congratulations, level 27 Pass!\n\n
+        Interesting fact:\n
+        "- Pi was first calculated by the Indian mathematician Budhayan in the 6th century AD.</string>
+
+    <string name="leveltwentyeight">Level 28 - Bonus\nnChoose Marvel characters.</string>
+    <string name="leveltwentyeightend">Congratulations, bonus level 28, Passed!\n\n
+        Interesting fact:\n
+        "- Iron Man 3 wanted to show Tony Stark's drinking problem, but Disney banned it.</string>
+
+    <string name="leveltwentynine">Level 29\nChoose large number.</string>
+    <string name="leveltwentynineend">Congratulations, level 29 Pass!\n\n
+        Interesting fact:\n
+        "- Quadratic equations were created in the 11th century in India. The largest number used in India was 10 to the 53rd degree, while the Greeks and Romans only used numbers to the 6th degree.</string>
+
+    <string name="levelthirty">Level 30\nChoose large number.</string>
+    <string name="levelthirtyend">Congratulations, level 30 Pass!\n\n
+        Interesting fact:\n
+        "- Pi has been celebrated for more than a quarter of a century since 1988. One day, Larry Shaw, a physicist from the popular science museum in San Francisco, noticed that March 14 coincides with the number Pi in writing. In date, month and day form 3.14.</string>
+
+</resources>
